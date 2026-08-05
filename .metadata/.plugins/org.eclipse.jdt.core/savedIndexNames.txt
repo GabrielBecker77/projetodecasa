@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\dsv\.metadata\.plugins\org.eclipse.jdt.core
+3413270776.index
+1865797976.index
+1370266687.index
+251834853.index
+1419896454.index
+897086409.index
+2068996154.index
+3742724125.index
+3087393863.index
+2496027531.index
+1993448113.index

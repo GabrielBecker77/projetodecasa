@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;pack1.segundo&apos; to &apos;AreaTrapezio&apos;&#x0D;&#x0A;- Original project: &apos;Primeiroprojeto&apos;&#x0D;&#x0A;- Original element: &apos;pack1.segundo&apos;&#x0D;&#x0A;- Renamed element: &apos;pack1.AreaTrapezio&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;segundo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;pack1{segundo.java[segundo" matchStrategy="1" name="AreaTrapezio" qualified="false" references="true" similarDeclarations="false" stamp="1771427323680" textual="false" version="1.0"/>
-</session>

@@ -7,7 +7,7 @@ import java.util.Scanner;
 import entidades.Categoria;
 import entidades.Jogo;
 
-public class Aplicacao {
+public class Programa {
 
     public static void main(String[] args) {
 

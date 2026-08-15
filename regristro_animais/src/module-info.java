@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module regristro_animais {
-}
